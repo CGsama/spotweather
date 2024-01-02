@@ -3,7 +3,13 @@
 
 
 # Demo
+Free for use for now, since I use it by myself to fill the gap compare to Garmin, and the infrastructure is very low cost.
+
 Add contact weather@noreply.moegirl.live in Spot X and send any message to the email with coordinate enabled, include predefind message, so free for sending.
+
+You will be charged for sending and/or receiving message based on your spot-x subscription plan.
+
+Please remember to whitelist the email address above in order to receive the weather message.
 
 # Receive format
 ```
