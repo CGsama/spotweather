@@ -28,7 +28,8 @@ Please remember to whitelist the email address above in order to receive the wea
 ```
 
 ![example](./EXAMPLE.jpg)
-please ignore the date, its on Jan 4, some setting got wrong on my spotx
+
+please ignore the date, its on Jan 4, some setting got wrong on my spotx.
 
 # Reference
 
