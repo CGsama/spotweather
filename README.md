@@ -27,6 +27,9 @@ Please remember to whitelist the email address above in order to receive the wea
 01-04 73 -7.9~0.0°C 1.6mm 22.0km/h NW
 ```
 
+![example](./EXAMPLE.jpg)
+please ignore the date, its on Jan 4, some setting got wrong on my spotx
+
 # Reference
 
 WMO-CODE
